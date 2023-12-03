@@ -1,0 +1,21 @@
+.box{
+    width: 660px;
+    height: 500px;
+    background-color: purple;
+}
+.a{
+    width: 225px;
+    height: 75px;
+    background-color: yellow;
+    position: fixed;
+    top: 225px;
+    left: 225px;
+    box-shadow: 0 0 0 100px purple , 0 0 0 175px yellow ;
+}
+.b{
+    width: 75px;
+    height: 300px;
+    left: 300px;
+    background-color: purple;
+    position: fixed;
+}
